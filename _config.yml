@@ -21,6 +21,19 @@ social:
     # twitter: 
     mail: lwj_json@163.com
 
+ # 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 29b6d192c2fa6345a3f62fe7755d5cfa  
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+    id: UA-102356360-1   
+    host: auto  
+
+
+
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
