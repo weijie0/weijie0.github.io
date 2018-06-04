@@ -6,7 +6,7 @@ description: "Docker部署GitLab"
 tag: 博客 
 ---   
 <div align="center">
-	<img src="/images/posts/cmd/docker.jpg" height="300" width="500">  
+	<img src="/images/posts/cmd/docker.png" height="300" width="500">  
 </div> 
 > GitLab是类似于Github的开源Git版本管理平台，功能强大且界面美观，通常用于搭建私有代码仓库，是目前公司内部Git版本管理系统的首选方案。
 > 
@@ -113,7 +113,7 @@ gitlab-ctl reconfigure
 > 2、如果没有配置https, 是无法通过https路径拉取代码的
 > 
 ### 四.访问host：port
->说明：启动gitlab，页面显示502，原因可能gitlab需要内存至少2g，最好于2g。还可能是端口号冲突导致。
+说明：启动gitlab，页面显示502，原因可能gitlab需要内存至少2g，最好于2g。还可能是端口号冲突导致。
 
 ```
 #打印gitlab日志
