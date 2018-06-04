@@ -113,7 +113,7 @@ gitlab-ctl reconfigure
 > 2、如果没有配置https, 是无法通过https路径拉取代码的
 > 
 ### 四.访问host：port
-说明：启动gitlab，页面显示502，原因可能gitlab需要内存至少2g，最好于2g。还可能是端口号冲突导致。
+说明：启动gitlab，页面显示502，原因可能gitlab需要内存至少2g，最好大于2g。还可能是端口号冲突导致。
 
 ```
 #打印gitlab日志
