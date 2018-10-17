@@ -1,7 +1,7 @@
 # blog-jack
 我的博客
 
-== Release Notes
+## Release Notes
 See the following release notes for upgrade instructions and _new and noteworthy_ features:
 
 - link:Spring-Boot-2.1-Release-Notes[v2.1]
