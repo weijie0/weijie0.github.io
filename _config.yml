@@ -31,6 +31,10 @@ baidu:
 ga:
     id: UA-102356360-1   
     host: auto  
+#facebook login    
+facebook:
+    id:2513253975362134
+    apiversion:v3.2
 
 
 
