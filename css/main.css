@@ -120,16 +120,16 @@ h2 {
 }
 
 h3 {
-  font-size: 1.2em; 
-  text-indent: 4px; 
-  border-radius: 4px; 
+  font-size: 1.2em;
+  text-indent: 4px;
+  border-radius: 4px;
   padding: 6px 15px;
   margin-bottom: 20px;
   margin-top: 5px;
-  background:#B9D3EE;
+  background: #dddddd;
   /*0px right, 5px botton, 5px fuzzy*/
   box-shadow: 0px 5px 5px #9FB6CD;
-  border-left: 6px solid #1874CD; 
+  border-left: 6px solid #458b74;
   position:relative;
 }
 
@@ -195,14 +195,15 @@ code {
 pre {
   margin-bottom: 1.3em;
   padding: 1em 2.5%;
-  background: #e8f2fb;
+  background: #191a1b;
   border: 1px solid #c9e1f6;
   border-radius: 3px;
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   font-size: .9em;
   font-weight: normal;
   line-height: 1.3em;
-  overflow: scroll; }
+  overflow: scroll;
+  }
 pre code {
   padding: 0;
   background: none;
